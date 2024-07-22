@@ -3,7 +3,7 @@ Author: Curran Flanders
 
 Course: ENGR-211
 
-Date: 09/16/2022
+Completion Date: 09/16/2022
 
 ## Introduction and contents
 This document is a brief engineering report describing a piece of computer software that was created as a class assignment. 
